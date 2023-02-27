@@ -15,8 +15,9 @@ Every non-ASCII character has been replaced by the string `<non_ascii>` to facil
 It is being continuously updated.
 
 ## Sample data
-|---|---|
+
 |Title|Abstract|
+| :--- | :--- |
 | Velocity of Light and Measurement of Interplanetary Distances | The combined availability of atomic clocks and of instrumented planetoids traveling in their own solar orbits will offer the possibility of determining their distance from us, and hence interplanetary distances, in terms of the wavelength of the radiation of atomic frequency standards. It can be anticipated that the accuracy of these measurements will be very high and will not depend upon our less accurate knowledge of the velocity of light in terms of the standard meter, the sidereal second, and so on. |
 | High-Resolution Density Gradient Sedimentation Analysis | The principle of stability for a sample layered in a density-gradient liquid column is discussed, and a method for separating ribonucleoprotein particles by means of sedimentation in the ultracentrifuge is described. |
 | Daily Light Sensitivity Rhythm in a Rodent | Single 10-minute light periods can cause a phase shift in the rhythm of the daily locomotor activity of flying squirrels otherwise maintained in constant darkness. A daily rhythm of sensitivity to these standard light periods was found. |
