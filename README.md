@@ -1,6 +1,6 @@
 # The 3oloum corpus of scientific titles and abstracts
 
-This is a corpus of 147,673 titles and abstracts of scientific articles that were scraped from the following scientific journals:
+This is a corpus of titles and abstracts of 147,673 scientific articles that were scraped from the following scientific journals:
 
 - Nature: from year 1870 to 2021
 - Science: from year 1960 to 2020
