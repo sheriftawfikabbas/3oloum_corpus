@@ -1,0 +1,787 @@
+id,name,parentId
+1,Chemistry,0
+2,Agrochemistry,1
+3,Analytical chemistry,1
+4,Astrochemistry,1
+5,Atmospheric chemistry,1
+6,Catalysts,1
+7,Chemical biology,1
+8,Chemical physics,1
+9,Cheminformatics,1
+10,Computational chemistry,1
+11,Cosmochemistry,1
+12,Electrochemistry,1
+13,Environmental chemistry,1
+14,Femtochemistry,1
+15,Flavor chemistry,1
+16,Flow chemistry,1
+17,Geochemistry,1
+18,Green chemistry,1
+19,Histochemistry,1
+20,Immunochemistry,1
+21,Inorganic chemistry,1
+22,Marine chemistry,1
+23,Mathematical chemistry,1
+24,Mechanochemistry,1
+25,Medicinal chemistry,1
+26,Molecular biology,1
+27,Molecular mechanics,1
+28,Nanotechnology,1
+29,Natural product chemistry,1
+30,Neurochemistry,1
+31,Nuclear chemistry,1
+32,Oenology,1
+33,Organic chemistry,1
+34,Organometallic chemistry,1
+35,Petrochemistry,1
+36,Pharmacology,1
+37,Photochemistry,1
+38,Physical chemistry,1
+39,Phytochemistry,1
+40,Polymer chemistry,1
+41,Quantum chemistry,1
+42,Radiochemistry,1
+43,Soil chemistry,1
+44,Solid-state chemistry,1
+45,Sonochemistry,1
+46,Supramolecular chemistry,1
+47,Surface chemistry,1
+48,Synthetic chemistry,1
+49,Systems chemistry,1
+50,Theoretical chemistry,1
+51,Thermochemistry,1
+52,Earth sciences,0
+53,Edaphology,52
+54,Environmental science,52
+55,Environmental chemistry,52
+56,Gemology,52
+57,Geobiology,52
+58,Geodesy,52
+59,Geography,52
+60,Geology,52
+61,Geochemistry,52
+62,Geomorphology,52
+63,Geophysics,52
+64,Glaciology,52
+65,Hydrogeology,52
+66,Hydrology,52
+67,Meteorology,52
+68,Mineralogy,52
+69,Oceanography,52
+70,Pedology,52
+71,Paleontology,52
+72,Quantum information,80
+73,Paleoecology,52
+74,Petrology,52
+75,Sedimentology,52
+76,Soil science,52
+77,Speleology,52
+78,Tectonics,52
+79,Volcanology,52
+80,Physics,0
+81,Acoustics,80
+82,Quantum acoustics,80
+83,Agrophysics,80
+84,Accelerator physics,80
+85,Communication physics,80
+86,Astrophysics,80
+87,Atmospheric physics,80
+88,Atmospheric electricity,80
+89,Atomic physics,80
+90,Biophysics,80
+91,Neurophysics,80
+92,Chemical physics,80
+93,Computational physics,80
+94,Condensed matter physics,80
+95,Cryogenics,80
+96,Dynamics,80
+97,Analytical dynamics,80
+98,Astrodynamics,80
+99,Biodynamic,80
+100,Brownian dynamics,80
+101,Flight dynamics,80
+102,Fluid dynamics,80
+103,Aerodynamics,80
+104,Hydrodynamics,80
+105,Fractional dynamics,80
+106,Geodynamics,80
+107,Molecular dynamics,80
+108,Newtonian dynamics,80
+109,Langevin dynamics,80
+110,Quantum chromodynamics,80
+111,Quantum electrodynamics,80
+112,Relativistic dynamics,80
+113,Stellar dynamics,80
+114,System dynamics,80
+115,Thermodynamics,80
+116,Vehicle dynamics,80
+117,Econophysics,80
+118,Electromagnetism,80
+119,Electricity,80
+120,Electrostatic,80
+121,Magnetism,80
+122,Engineering physics,80
+123,Experimental physics,80
+124,Geophysics,80
+125,Biogeophysics,80
+126,Geomagnetism,80
+127,Kinematics,80
+128,Fluid kinematics,80
+129,Kinetics,80
+130,electrokinetics,80
+131,Homeokinetics,80
+132,Laser physics,80
+133,Materials physics,80
+134,Mathematical physics,80
+135,Medical physics,80
+136,Mechanics,80
+137,Analytical mechanics,80
+138,Applied mechanics,80
+139,Ballistics,80
+140,Biomechanics,80
+141,Celestial mechanics,80
+142,Classical mechanics,80
+143,Continuum mechanics,80
+144,Fluid mechanics,80
+145,Compressible flow,80
+146,Gas mechanics,80
+147,Fracture mechanics,80
+148,Hamiltonian mechanics,80
+149,Hydraulics,80
+150,Lagrangian mechanics,80
+151,Matrix mechanics,80
+152,Molecular mechanics,80
+153,Particle mechanics,80
+154,Quantum mechanics,80
+155,Relativistic mechanics,80
+156,Soil mechanics,80
+157,Solid mechanics,80
+158,Statics,80
+159,Fluid statics,80
+160,Statistical mechanics,80
+161,Quantum statistical mechanics,80
+162,Mineral physics,80
+163,Molecular physics,80
+164,Nuclear physics,80
+165,Optics,80
+166,Geometrical optics,80
+167,Physical optics,80
+168,Quantum optics,80
+169,Particle physics,80
+170,Petrophysics,80
+171,Photonics,80
+172,Physical chemistry,80
+173,Plasma physics,80
+174,Polymer physics,80
+175,Quantum physics,80
+176,Quantum technology,80
+177,Radiophysics,80
+178,Relativity,80
+179,General relativity,80
+180,Special relativity,80
+181,Social physics,80
+182,Soil physics,80
+183,Solid state physics,80
+184,Spintronics,80
+185,Statistical physics,80
+186,Surface physics,80
+187,Theoretical physics,80
+188,Quantum gravity,80
+189,Thermal physics,80
+190,Space sciences,0
+191,Aerospace engineering,190
+192,Aerospace architecture,190
+193,Aerospace physiology,190
+194,Aerospace manufacturing,190
+195,Astronautics,190
+196,Space architecture,190
+197,Space colonization,190
+198,Space commercialization,190
+199,Space-based economy,190
+200,Space industry,190
+201,Space manufacturing,190
+202,Space environment,190
+203,Space logistics,190
+204,Space food,190
+205,Space medicine,190
+206,Neuroscience in space,190
+207,Space religion,190
+208,Space survival,190
+209,Space warfare,190
+210,Aeronautics,190
+211,Space control engineering,190
+212,Human spaceflight,190
+213,Unmanned spaceflight,190
+214,Space corrosion,190
+215,Space technology,190
+216,Space telescopes,190
+217,Space-based radar,190
+218,Space-based solar power,190
+219,Spacecraft design,190
+220,Spacecraft propulsion,190
+221,Asteroid-impact avoidance,190
+222,Astrobiology,190
+223,Astrobotany,190
+224,Astrochemistry,190
+225,Theoretical astronomy,190
+226,Cosmochemistry,190
+227,Cosmology,190
+228,Micro-g environment research,190
+229,Space archaeology,190
+230,Space exploration,190
+231,Space law,190
+232,Space nuclear power,190
+233,Astronomy,0
+234,Archaeoastronomy,233
+235,Astrometry,233
+236,Amateur astronomy,233
+237,Forensic astronomy,233
+238,Extragalactic astronomy,233
+239,Galactic astronomy,233
+240,High-energy astronomy,233
+241,Observational astronomy,233
+242,Radio astronomy,241
+243,Microwave astronomy,241
+244,Submillimetre astronomy,241
+245,Infrared astronomy,241
+246,Optical astronomy,241
+247,UV astronomy,241
+248,X-ray astronomy,241
+249,Gamma-ray astronomy,241
+250,Cosmic-ray astronomy,241
+251,Neutrino astronomy,241
+252,Gravitational wave astronomy,233
+253,Photometry,233
+254,Spectroscopy,233
+255,Stellar astronomy,233
+256,Solar astronomy,233
+257,Celestial mechanics,86
+258,Compact objects,86
+259,Computational astrophysics,86
+260,Gravitational astronomy,86
+261,Black holes,86
+262,Interstellar medium,86
+263,Numerical simulations,86
+264,Astrophysical plasma,86
+265,Galaxy formation and evolution,86
+266,High-energy astrophysics,86
+267,Hydrodynamics,86
+268,Magnetohydrodynamics,86
+269,Star formation,86
+270,Orbital mechanics,86
+271,Physical cosmology,86
+272,Relativistic astrophysics,86
+273,Stellar astrophysics,86
+274,Helioseismology,86
+275,Solar physics,86
+276,Stellar evolution,86
+277,Stellar nucleosynthesis,86
+278,Space plasma physics,86
+279,Planetary science,233
+280,Atmospheric science,279
+281,Exoplanetology,279
+282,Planetary formation,279
+283,Planetary rings,279
+284,Magnetospheres,279
+285,Planetary geology,279
+286,Planetary surfaces,279
+287,Small Solar System bodies,279
+288,Mathematics,0
+289,Algebra,288
+290,Group theory,289
+291,Ring theory,289
+292,Commutative algebra,289
+293,Field theory,289
+294,Linear algebra,289
+295,Multilinear algebra,289
+296,Universal algebra,289
+297,Homological algebra,289
+298,Differential algebra,289
+299,Lattice theory,289
+300,Representation theory,289
+301,K-theory,289
+302,Category theory,289
+303,Topos theory,289
+304,Analysis,288
+305,Real analysis,304
+306,Calculus,304
+307,Complex analysis,304
+308,Functional analysis,304
+309,Operator theory,304
+310,Non-standard analysis,304
+311,Harmonic analysis,304
+312,Fourier analysis,304
+313,p-adic analysis,304
+314,Ordinary differential equations,304
+315,Partial differential equations,304
+316,Probability theory,288
+317,Measure theory,316
+318,Integral geometry,316
+319,Ergodic theory,316
+320,Stochastic process,316
+321,Geometry and Topology,288
+322,General topology,321
+323,Algebraic topology,321
+324,Geometric topology,321
+325,Differential topology,321
+326,Algebraic geometry,321
+327,Projective geometry,321
+328,Affine geometry,321
+329,Non-Euclidean geometry,321
+330,Convex geometry,321
+331,Discrete geometry,321
+332,Integral geometry,321
+333,Euclidean geometry,321
+334,Finite geometry,321
+335,Galois geometry,321
+336,Noncommutative geometry,321
+337,Solid geometry,321
+338,Trigonometry,321
+339,Number theory,288
+340,Analytic number theory,339
+341,Algebraic number theory,339
+342,Geometric number theory,339
+343,Arithmetic,339
+344,Arithmetic combinatorics,339
+345,Logic and Foundations of mathematics,288
+346,Set theory,345
+347,Proof theory,345
+348,Model theory,345
+349,Recursion theory,345
+350,Modal logic,345
+351,Intuitionistic logic,345
+352,Biology,0
+353,Aerobiology,352
+354,Anatomy,352
+355,Comparative anatomy,354
+356,Human anatomy,354
+357,Biochemistry,352
+358,Bioinformatics,352
+359,Biotechnology,352
+360,Botany,352
+361,Ethnobotany,360
+362,Phycology,360
+363,Cell biology,352
+364,Chronobiology,352
+365,Computational biology,352
+366,Cryobiology,352
+367,Developmental biology,352
+368,Embryology,367
+369,Teratology,367
+370,Ecology,352
+371,Agroecology,370
+372,Ethnoecology,370
+373,Human ecology,370
+374,Landscape ecology,370
+375,Genetics,352
+376,Behavioural genetics,375
+377,Molecular genetics,375
+378,Population genetics,375
+379,Geobiology,352
+380,Endocrinology,352
+381,Evolutionary biology,352
+382,Histology,352
+383,Human biology,352
+384,Immunology,352
+385,Limnology,352
+386,Linnaean taxonomy,352
+387,Marine biology,352
+388,Mathematical biology,352
+389,Microbiology,352
+390,Molecular biology,352
+391,Mycology,352
+392,Neuroscience,352
+393,Behavioral neuroscience,352
+394,Nutrition,352
+395,Paleobiology,352
+396,Paleontology,352
+397,Parasitology,352
+398,Pathology,352
+399,Anatomical pathology,352
+400,Clinical pathology,352
+401,Dermatopathology,352
+402,Forensic pathology,352
+403,Hematopathology,352
+404,Histopathology,352
+405,Molecular pathology,352
+406,Surgical pathology,352
+407,Physiology,352
+408,Human physiology,352
+409,Exercise physiology,352
+410,Quantum biology,352
+411,Structural Biology,352
+412,Taxonomy,352
+413,Systems biology,352
+414,Theoretical biology,352
+415,Virology,352
+416,Molecular virology,352
+417,Xenobiology,352
+418,Zoology,352
+419,Animal communications,418
+420,Apiology,418
+421,Arachnology,418
+422,Carcinology,418
+423,Cetology,418
+424,Entomology,418
+425,Forensic entomology,418
+426,Ethnozoology,418
+427,Ethology,418
+428,Helminthology,418
+429,Herpetology,418
+430,Ichthyology,418
+431,Mammalogy,418
+432,Malacology,418
+433,Conchology,418
+434,Myrmecology,418
+435,Nematology,418
+436,Neuroethology,418
+437,Oology,418
+438,Ornithology,418
+439,Planktology,418
+440,Primatology,418
+441,Zootomy,418
+442,Zoosemiotics,418
+443,Medicine,0
+444,Alternative medicine,443
+445,Cleaning,443
+446,Clinical pathology,443
+447,Clinical biochemistry,443
+448,Cytogenetics,443
+449,Cytohematology,443
+450,Cytology,443
+451,Haemostasiology,443
+452,Histology,443
+453,Clinical immunology,443
+454,Clinical microbiology,443
+455,Molecular genetics,443
+456,Parasitology,443
+457,Clinical physiology,443
+458,Cosmetology,443
+459,Decontamination,443
+460,Dentistry,443
+461,Dental hygiene and epidemiology,443
+462,Dental surgery,443
+463,Endodontics,443
+464,Orthodontics,443
+465,Oral and maxillofacial surgery,443
+466,Periodontics,443
+467,Prosthodontics,443
+468,Implantology,443
+469,Dermatology,443
+470,Emergency medicine,443
+471,Health informatics,443
+472,Music therapy,443
+473,Nursing,443
+474,Nutrition and dietetics,443
+475,Optometry,443
+476,Orthoptics,443
+477,Osteopathy,443
+478,Physiotherapy,443
+479,Occupational therapy,443
+480,Speech and language pathology,443
+481,Internal medicine,443
+482,Preventive medicine,443
+483,Cardiology,443
+484,Cardiac electrophysiology,443
+485,Dermatology,443
+486,Pulmonology,443
+487,Medical toxicology,443
+488,Endocrinology,443
+489,Gastroenterology,443
+490,Hepatology,443
+491,Oncology,443
+492,Geriatrics,443
+493,Gynaecology,443
+494,Hematology,443
+495,Infectious disease,443
+496,Nephrology,443
+497,Neurology,443
+498,Neurosurgery,443
+499,Obstetrics,443
+500,Ophthalmology,443
+501,Neuro-ophthalmology,443
+502,Orthopedic surgery,443
+503,Otolaryngology,443
+504,Pathology,443
+505,Pediatrics,443
+506,Pharmacy,443
+507,Pharmaceutical sciences,443
+508,Pharmacognosy,443
+509,Physical fitness,443
+510,Aerobics,443
+511,Personal fitness training,443
+512,Kinesiology,443
+513,Physical therapy,443
+514,Podiatry,443
+515,Primary care,443
+516,General practice,443
+517,Psychiatry,443
+518,Psychology,443
+519,Psychosomatic,443
+520,Psychotherapy,443
+521,Public health,443
+522,Radiology,443
+523,Recreation therapy,443
+524,Rehabilitation medicine,443
+525,Respiratory medicine,443
+526,Pulmonology,443
+527,Sleep medicine,443
+528,Respiratory therapy,443
+529,Rheumatology,443
+530,Sports medicine,443
+531,Sterilization,443
+532,Surgery,443
+533,Bariatric surgery,443
+534,Cardiothoracic surgery,443
+535,Neurosurgery,443
+536,Plastic surgery,443
+537,Trauma surgery,443
+538,Traumatology,443
+539,Traditional medicine,443
+540,Therapy,443
+541,Urology,443
+542,Andrology,443
+543,Veterinary medicine,443
+544,Anthropology,0
+545,Anthropological criminology,544
+546,Anthropological linguistics,544
+547,Synchronic linguistics,544
+548,Diachronic linguistics,544
+549,Ethnolinguistics,544
+550,Semiotic anthropology,544
+551,Sociolinguistics,544
+552,Anthrozoology,544
+553,Biological anthropology,544
+554,Gene-culture coevolution,544
+555,Evolutionary anthropology,544
+556,Forensic anthropology,544
+557,Human behavioral ecology,544
+558,Human evolution,544
+559,Medical anthropology,544
+560,Molecular anthropology,544
+561,Neuroanthropology,544
+562,Nutritional anthropology,544
+563,Paleoanthropology,544
+564,Population genetics,544
+565,Primatology,544
+566,Biocultural anthropology,544
+567,Cultural anthropology,544
+568,Anthropology of development,544
+569,Anthropology of religion,544
+570,Applied anthropology,544
+571,Cognitive anthropology,544
+572,Cyborg anthropology,544
+573,Digital anthropology,544
+574,Digital culture,544
+575,Ecological anthropology,544
+576,Economic anthropology,544
+577,Environmental anthropology,544
+578,Ethnobiology,544
+579,Ethnobotany,544
+580,Ethnography,544
+581,Ethnohistory,544
+582,Ethnology,544
+583,Ethnomuseology,544
+584,Ethnomusicology,544
+585,Feminist anthropology,544
+586,Folklore,544
+587,Kinship,544
+588,Legal anthropology,544
+589,Mythology,544
+590,Missiology,544
+591,Political anthropology,544
+592,Political economic anthropology,544
+593,Psychological anthropology,544
+594,Public anthropology,544
+595,Symbolic anthropology,544
+596,Transpersonal anthropology,544
+597,Urban anthropology,544
+598,Linguistic anthropology,544
+599,Social anthropology,544
+600,Anthropology of art,544
+601,Anthropology of institutions,544
+602,Anthropology of media,544
+603,Visual anthropology,544
+604,Economics,0
+605,Agricultural economics,604
+606,Anarchist economics,604
+607,Applied economics,604
+608,Behavioural economics,604
+609,Bioeconomics,604
+610,Complexity economics,604
+611,Computational economics,604
+612,Consumer economics,604
+613,Development economics,604
+614,Digital economy,604
+615,Ecological economics,604
+616,Econometrics,604
+617,Economic geography,604
+618,Economic history,604
+619,Economic sector,604
+620,Economic sociology,604
+621,Economic systems,604
+622,Economic value,604
+623,Energy economics,604
+624,Entrepreneurial economics,604
+625,Environmental economics,604
+626,Evolutionary economics,604
+627,Experimental economics,604
+628,Feminist economics,604
+629,Financial economics,604
+630,Financial econometrics,604
+631,Green economics,604
+632,Growth economics,604
+633,Human development theory,604
+634,Industrial organization,604
+635,Information economics,604
+636,Institutional economics,604
+637,International economics,604
+638,Islamic economics,604
+639,Knowledge economy,604
+640,Labor economics,604
+641,Law and economics,604
+642,Macroeconomics,604
+643,Managerial economics,604
+644,Market economy,604
+645,Marxian economics,604
+646,Mathematical economics,604
+647,Microeconomics,604
+648,Monetary economics,604
+649,Neuroeconomics,604
+650,Participatory economics,604
+651,Political economy,604
+652,Public finance,604
+653,Public economics,604
+654,Real estate economics,604
+655,Resource economics,604
+656,Social choice theory,604
+657,Socialist economics,604
+658,Socioeconomics,604
+659,Transport economics,604
+660,Welfare economics,604
+661,Computer sciences,0
+662,Theory of computation,661
+663,Automata theory,661
+664,Computability theory,661
+665,Computational complexity theory,661
+666,Cryptanalysis,661
+667,Cryptography,661
+668,Fault-tolerant computing,661
+669,Distributed computing,661
+670,Grid computing,661
+671,Parallel computing,661
+672,High-performance computing,661
+673,Quantum computing,80
+674,Computer graphics,661
+675,Image processing,661
+676,Programming languages,661
+677,Type theory,661
+678,Data mining,661
+679,Theoretical computer science,661
+680,Artificial intelligence,661
+681,Automated reasoning,661
+682,Machine learning,661
+683,Natural language processing,661
+684,Computer vision,661
+685,Robotics,661
+686,Numerical analysis,661
+687,Symbolic computation,661
+688,Computational neuroscience,661
+689,Finite element analysis,661
+690,Computational fluid dynamics,661
+691,Coronavirus disease 2019,495
+692,Engineering,0
+693,Chemical engineering,692
+694,Biocatalysts,693
+695,Bioengineering,693
+696,Biochemical engineering,693
+697,Biomolecular engineering,693
+698,Bionics,693
+699,Materials engineering,693
+700,Molecular engineering,693
+701,Polymer engineering,693
+702,Process design,693
+703,Petroleum engineering,693
+704,Nuclear engineering,693
+705,Food engineering,693
+706,Process engineering,693
+707,Reaction engineering,693
+708,Civil engineering,692
+709,Agricultural engineering,708
+710,Coastal engineering,708
+711,Construction,708
+712,Earthquake engineering,708
+713,Ecological engineering,708
+714,Environmental engineering,708
+715,Geotechnical engineering,708
+716,Engineering geology,708
+717,Hydraulic engineering,708
+718,Infrastructure engineering,708
+719,Mining engineering,708
+720,Transportation engineering,708
+721,Highway engineering,708
+722,Structural engineering,708
+723,Architectural engineering,708
+724,Structural mechanics,708
+725,Surveying,708
+726,Electrical engineering,692
+727,Control systems engineering,726
+728,Control theory,726
+729,Instrumentation engineering,726
+730,Mechatronics,726
+731,Microbotics,726
+732,Telecommunications engineering,726
+733,Computer engineering,692
+734,Electronic engineering,692
+735,Power engineering,692
+736,Mechanical engineering,692
+737,Acoustical engineering,736
+738,Automotive engineering,736
+739,Biomedical engineering,736
+740,Biomechanical engineering,736
+741,Fluid mechanics,736
+742,Heat transfer,736
+743,Industrial engineering,736
+744,Manufacturing engineering,736
+745,Marine engineering,736
+746,Mass transfer,736
+747,Nanoengineering,736
+748,Ocean engineering,736
+749,Optical engineering,736
+750,Thermal engineering,736
+751,Materials engineering,692
+752,Biomaterials,751
+753,Ceramic engineering,751
+754,Corrosion engineering,751
+755,Crystallography,751
+756,Nanomaterials,751
+757,Physical metallurgy,751
+758,Polymer engineering,751
+759,Semiconductor engineering,751
+760,Humanities and social science,0
+761,Linguistics and languages,760
+762,Applied linguistics,761
+763,Computational linguistics,761
+764,Discourse analysis,761
+765,Etymology,761
+766,Grammar,761
+767,Historical linguistics,761
+768,History of linguistics,761
+769,Interlinguistics,761
+770,Lexicology,761
+771,Linguistic typology,761
+772,Natural language processing,761
+773,Philology,761
+774,Phonetics,761
+775,Phonology,761
+776,Pragmatics,761
+777,Psycholinguistics,761
+778,Semantics,761
+779,Semiotics,761
+780,Sociolinguistics,761
+781,Composition studies,761
+782,Battery science,12
+783,Neurology,443
+784,Neurology,443
+785,Neurology,443
+786,Alzheimer's disease,785
