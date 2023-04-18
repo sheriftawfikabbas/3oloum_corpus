@@ -1,3 +1,13 @@
+---
+language: 
+- en
+pretty_name: "3oloum corpus for scientific abstract"
+tags:
+- science abstracts
+- English
+license: "gpl-3.0"
+---
+
 # The 3oloum corpus of scientific titles and abstracts
 
 This is a corpus of titles and abstracts of 147,673 scientific articles that were scraped from the following scientific journals:
